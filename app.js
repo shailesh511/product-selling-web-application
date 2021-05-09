@@ -8,7 +8,7 @@ const cookieParser = require("cookie-parser");
 const cors = require("cors");
 
 import React from  'react';
-
+import React from 'react';
 //My routes
 const authRoutes = require("./routes/auth");
 const userRoutes = require("./routes/user");
